@@ -1,2 +1,66 @@
-# Simple-Text-Adventure
-A text-based interactive fiction game.
+- @aismail5
+#- @aismail5
+ - @aismail5
+S- @aismail5
+i- @aismail5
+m- @aismail5
+p- @aismail5
+l- @aismail5
+e- @aismail5
+-- @aismail5
+T- @aismail5
+e- @aismail5
+x- @aismail5
+t- @aismail5
+-- @aismail5
+A- @aismail5
+d- @aismail5
+v- @aismail5
+e- @aismail5
+n- @aismail5
+t- @aismail5
+u- @aismail5
+r- @aismail5
+e- @aismail5
+
+- @aismail5
+A- @aismail5
+ - @aismail5
+t- @aismail5
+e- @aismail5
+x- @aismail5
+t- @aismail5
+-- @aismail5
+b- @aismail5
+a- @aismail5
+s- @aismail5
+e- @aismail5
+d- @aismail5
+ - @aismail5
+i- @aismail5
+n- @aismail5
+t- @aismail5
+e- @aismail5
+r- @aismail5
+a- @aismail5
+c- @aismail5
+t- @aismail5
+i- @aismail5
+v- @aismail5
+e- @aismail5
+ - @aismail5
+f- @aismail5
+i- @aismail5
+c- @aismail5
+t- @aismail5
+i- @aismail5
+o- @aismail5
+n- @aismail5
+ - @aismail5
+g- @aismail5
+a- @aismail5
+m- @aismail5
+e- @aismail5
+.- @aismail5
+
+- @aismail5
